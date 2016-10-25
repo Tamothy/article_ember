@@ -1,0 +1,10 @@
+<div class="container">
+{{#link-to 'article' article.id}}
+{{article.name}}
+{{/link-to}}
+{{#if isGifShowing}}
+  <p><img src={{article.gif}} {{action 'gifHide'}} ></p>
+{{else}}
+  <button {{action 'gifShow'}}>Show Gif</button>
+{{/if}}
+</div>

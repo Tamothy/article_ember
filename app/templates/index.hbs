@@ -1,0 +1,15 @@
+<h1>Hi Welcome to EpiGrind</h1>
+
+<p>We hope these articles will make you have and less stress at Epicodus.</p>
+
+
+<div class="container">
+  {{#each model as |article|}}
+    {{article-tile article=article}}
+  {{/each}}
+</div>
+
+{{new-article saveArticle2="saveArticle3"}}
+
+{{#link-to 'about'}}About{{/link-to}}
+{{#link-to 'contact'}}Click here to contact us.{{/link-to}}

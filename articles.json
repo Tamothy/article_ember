@@ -1,0 +1,17 @@
+{ "articles": [{
+    "name": "Qdoba Mondays!",
+    "details": "Hate Mondays?! Now you will love Mondays after this because Qdoba (kinda like Chipotle) has $3.99 burritos and burrito bowls!",
+    "website": "https://www.qdoba.com/",
+    "gif": "http://www.gpwa.org/forum/images/imported/2014/01/funnygifswhennoonesaroundlarge-1.gif"
+  }, {
+    "name": "Angular Aspirations",
+    "details": "Having trouble with AngularJS?! Take a look at the Tour of Heroes lesson!",
+    "website": "https://angular.io/docs/ts/latest/tutorial/",
+    "gif": "http://www.pbh2.com/wordpress/wp-content/uploads/2013/06/funny-gif-nobody-got-time-for-that.gif"
+  }, {
+    "name": "Hillary Chillary vs Trump Dump",
+    "details": "Have trouble deciding who our next president is going to be?! That's okay! We got something for you to make the decision much easier! Click on the link below!",
+    "website": "http://imgur.com/v1kXjqT",
+    "gif": "http://i.imgur.com/v1kXjqT.jpg"
+  }]
+}
