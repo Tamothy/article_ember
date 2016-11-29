@@ -18,7 +18,7 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone https://github.com/Flores120/article_ember` this repository
+* `git clone https://github.com/Tamothy/article_ember` this repository
 * `cd article_ember`
 * `npm install`
 * `bower install`
